@@ -1,0 +1,98 @@
+.about {
+  padding: 3rem;
+  /* background-image: radial-gradient(circle, #ffffff 20%, #000000 180%); */
+}
+.about-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about-header h1 {
+  margin-bottom: 3rem;
+  font-family: Raleway;
+  font-size: 50px;
+}
+.about-header p {
+  width: 50vw;
+  height: 20vh;
+  font-family: Poppins;
+  font-size: 25px;
+  /* word-break: break-all; */
+}
+.about-content {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5% 20%;
+  height: 100vh;
+  gap: 80px;
+}
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.right {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+.name {
+  /* border: 1px solid red; */
+  text-align: left;
+  display: flex;
+  flex-flow: column nowrap;
+  margin-bottom: 1.5rem;
+  border-radius: 0.4rem;
+  box-shadow: 0.3rem 0.3rem 0.6rem gray, -0.2rem -0.2rem 0.5rem white;
+  height: 80px;
+}
+.email {
+  /* border: 1px solid red; */
+  text-align: left;
+  display: flex;
+  flex-flow: column nowrap;
+  margin-bottom: 1.5rem;
+  border-radius: 0.4rem;
+  box-shadow: 0.3rem 0.3rem 0.6rem gray, -0.2rem -0.2rem 0.5rem white;
+  height: 80px;
+}
+.linkedin {
+  /* border: 1px solid red; */
+  text-align: left;
+  display: flex;
+  flex-flow: column nowrap;
+  margin-bottom: 1.5rem;
+  border-radius: 0.4rem;
+  box-shadow: 0.3rem 0.3rem 0.6rem gray, -0.2rem -0.2rem 0.5rem white;
+  height: 80px;
+}
+.insta {
+  /* border: 1px solid red; */
+  text-align: left;
+  display: flex;
+  flex-flow: column nowrap;
+  margin-bottom: 1.5rem;
+  border-radius: 0.4rem;
+  box-shadow: 0.3rem 0.3rem 0.6rem gray, -0.2rem -0.2rem 0.5rem white;
+  height: 80px;
+}
+.details {
+  margin-top: 5rem;
+}
+.right p {
+  text-align: justify;
+}
+.details h3 {
+  padding-left: 0.8rem;
+}
+.details p {
+  padding-left: 0.8rem;
+}
+.left img {
+  margin-top: 6rem;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 6px 6px 6px 6px rgba(0, 0, 0, 0.2);
+}

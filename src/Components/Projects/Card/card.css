@@ -1,0 +1,12 @@
+.card-content {
+  border: none;
+  border-radius: 20px;
+  box-shadow: 2px 2px 6px 0 rgba(0, 0, 0, 0.3);
+  margin-bottom: 20px;
+  transition: all 0.3s ease-out;
+}
+.card-content:hover {
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.5);
+  transform: translateY(-10px);
+  cursor: pointer;
+}

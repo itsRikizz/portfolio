@@ -1,0 +1,13 @@
+.Skills {
+  margin-top: 12rem;
+}
+.skills-icon > img {
+  height: 50px;
+  width: 50px;
+  margin: 20px 10px;
+}
+.divider {
+  border-bottom: 5px dotted #8188ef;
+  margin: 20px auto;
+  width: 8%;
+}

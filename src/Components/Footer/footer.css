@@ -1,0 +1,9 @@
+.foot {
+  border-top: 2px solid red;
+  background-color: #333;
+  color: white;
+}
+.foot span {
+  color: red;
+  font-size: 30px;
+}

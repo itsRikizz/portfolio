@@ -1,0 +1,13 @@
+.Projects {
+  margin-top: 50px;
+}
+.Projects > p {
+  margin-top: 50px;
+}
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin: 70px 70px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
